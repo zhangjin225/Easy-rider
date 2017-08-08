@@ -1,0 +1,3790 @@
+ {
+    "type": "FeatureCollection",
+     "features": [
+         { "type": "Feature",
+       "properties": {
+             "id": 0,
+             "Station": "8 Ave & W 31 St",
+             "Frequency": 181865
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99481051, 40.75044999]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 1,
+             "Station": "Lafayette St & E 8 St",
+             "Frequency": 170721
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9907647, 40.73028666]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 2,
+             "Station": "E 17 St & Broadway",
+             "Frequency": 165660
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99009296, 40.73704984]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 3,
+             "Station": "W 21 St & 6 Ave",
+             "Frequency": 148506
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99415556, 40.74173969]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 4,
+             "Station": "Broadway & E 14 St",
+             "Frequency": 130525
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99074142, 40.73454567]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 5,
+             "Station": "West St & Chambers St",
+             "Frequency": 125524
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01322069, 40.71754834]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 6,
+             "Station": "University Pl & E 14 St",
+             "Frequency": 123768
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99200509, 40.73492695]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 7,
+             "Station": "Broadway & E 22 St",
+             "Frequency": 121799
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98955109, 40.740343200000005]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 8,
+             "Station": "Cleveland Pl & Spring St",
+             "Frequency": 120510
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99720307, 40.7218158]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 9,
+             "Station": "Broadway & W 24 St",
+             "Frequency": 115322
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98915076, 40.742354299999995]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 10,
+             "Station": "Greenwich Ave & 8 Ave",
+             "Frequency": 115090
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.0026376103, 40.7390169121]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 11,
+             "Station": "Christopher St & Greenwich St",
+             "Frequency": 113044
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00711384, 40.73291553]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 12,
+             "Station": "Broadway & W 60 St",
+             "Frequency": 112165
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98191841, 40.76915505]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 13,
+             "Station": "8 Ave & W 33 St",
+             "Frequency": 108980
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.993934, 40.751551]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 14,
+             "Station": "Carmine St & 6 Ave",
+             "Frequency": 108279
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00214988, 40.73038599]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 15,
+             "Station": "W 41 St & 8 Ave",
+             "Frequency": 106090
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9900262, 40.75640548]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 16,
+             "Station": "W 18 St & 6 Ave",
+             "Frequency": 105967
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99456405, 40.73971301]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 17,
+             "Station": "Vesey Pl & River Terrace",
+             "Frequency": 105457
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01658354, 40.715337899999994]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 18,
+             "Station": "E 43 St & Vanderbilt Ave",
+             "Frequency": 105061
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9779874, 40.75320159]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 19,
+             "Station": "W 31 St & 7 Ave",
+             "Frequency": 104251
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9916, 40.749156]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 20,
+             "Station": "E 42 St & Vanderbilt Ave",
+             "Frequency": 101974
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97837, 40.752416]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 21,
+             "Station": "2 Ave & E 31 St",
+             "Frequency": 99699
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97706058, 40.74290902]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 22,
+             "Station": "W Houston St & Hudson St",
+             "Frequency": 97318
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00748842, 40.72873888]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 23,
+             "Station": "1 Ave & E 15 St",
+             "Frequency": 97211
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98165557, 40.73221853]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 24,
+             "Station": "W 38 St & 8 Ave",
+             "Frequency": 96055
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99138152, 40.75466591]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 25,
+             "Station": "W 33 St & 7 Ave",
+             "Frequency": 95143
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99093085, 40.75019995]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 26,
+             "Station": "W 22 St & 10 Ave",
+             "Frequency": 94178
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00451887, 40.74691959]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 27,
+             "Station": "W 13 St & 6 Ave",
+             "Frequency": 92041
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99704374, 40.73649403]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 28,
+             "Station": "W 17 St & 8 Ave",
+             "Frequency": 91714
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00149746, 40.74177603]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 29,
+             "Station": "South End Ave & Liberty St",
+             "Frequency": 90161
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01575600000001, 40.711512]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 30,
+             "Station": "W 24 St & 7 Ave",
+             "Frequency": 89860
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99529885, 40.74487634]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 31,
+             "Station": "Lafayette St & Jersey St",
+             "Frequency": 88260
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99565293, 40.72456089]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 32,
+             "Station": "9 Ave & W 22 St",
+             "Frequency": 85992
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00197139, 40.7454973]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 33,
+             "Station": "W 39 St & 9 Ave",
+             "Frequency": 85729
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99372222, 40.75645824]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 34,
+             "Station": "W 4 St & 7 Ave S",
+             "Frequency": 85345
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00293877, 40.73401143]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 35,
+             "Station": "E 32 St & Park Ave",
+             "Frequency": 85027
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98194829, 40.745712100000006]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 36,
+             "Station": "Centre St & Chambers St",
+             "Frequency": 84825
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.0046073, 40.71273266]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 37,
+             "Station": "Mercer St & Bleecker St",
+             "Frequency": 84009
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99695094, 40.72679454]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 38,
+             "Station": "Barrow St & Hudson St",
+             "Frequency": 83712
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00674436, 40.73172428]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 39,
+             "Station": "Grand Army Plaza & Central Park S",
+             "Frequency": 83448
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97371465, 40.764397100000004]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 40,
+             "Station": "Greenwich St & Warren St",
+             "Frequency": 83145
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01121978, 40.71542197]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 41,
+             "Station": "Lexington Ave & E 26 St",
+             "Frequency": 82756
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98320928, 40.74147286]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 42,
+             "Station": "MacDougal St & Prince St",
+             "Frequency": 82649
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00297088, 40.72710258]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 43,
+             "Station": "W 20 St & 11 Ave",
+             "Frequency": 82612
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.007756, 40.746745000000004]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 44,
+             "Station": "Great Jones St",
+             "Frequency": 82535
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99379025, 40.72743423]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 45,
+             "Station": "E 10 St & Avenue A",
+             "Frequency": 81885
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98142006, 40.72740794]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 46,
+             "Station": "Lexington Ave & E 24 St",
+             "Frequency": 81214
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98409214, 40.74025878]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 47,
+             "Station": "Broadway & W 58 St",
+             "Frequency": 80135
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98169333, 40.76695317]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 48,
+             "Station": "E 11 St & 2 Ave",
+             "Frequency": 79207
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98672378, 40.73047309]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 49,
+             "Station": "12 Ave & W 40 St",
+             "Frequency": 79093
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00277668, 40.76087502]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 50,
+             "Station": "St Marks Pl & 2 Ave",
+             "Frequency": 79078
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98713956, 40.7284186]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 51,
+             "Station": "E 16 St & 5 Ave",
+             "Frequency": 78124
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99238967, 40.73726186]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 52,
+             "Station": "Mott St & Prince St",
+             "Frequency": 77785
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99480012, 40.72317958]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 53,
+             "Station": "W 27 St & 7 Ave",
+             "Frequency": 77378
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.993915, 40.746646999999996]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 54,
+             "Station": "6 Ave & W 33 St",
+             "Frequency": 76519
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98848395, 40.74901271]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 55,
+             "Station": "E 39 St & 2 Ave",
+             "Frequency": 76329
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97344190000001, 40.74780373]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 56,
+             "Station": "9 Ave & W 14 St",
+             "Frequency": 76280
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00550867, 40.7405826]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 57,
+             "Station": "Broadway & W 41 St",
+             "Frequency": 76022
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98658032, 40.75513557]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 58,
+             "Station": "E 12 St & 3 Ave",
+             "Frequency": 75963
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98889957, 40.73223272]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 59,
+             "Station": "E 7 St & Avenue A",
+             "Frequency": 75332
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98379855, 40.72621788]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 60,
+             "Station": "LaGuardia Pl & W 3 St",
+             "Frequency": 75148
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99810231, 40.72917025]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 61,
+             "Station": "Washington Square E",
+             "Frequency": 74989
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99572140000001, 40.73049393]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 62,
+             "Station": "W 26 St & 8 Ave",
+             "Frequency": 74545
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99723551, 40.74734825]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 63,
+             "Station": "W 22 St & 8 Ave",
+             "Frequency": 74348
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99915362, 40.74475148]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 64,
+             "Station": "W 25 St & 6 Ave",
+             "Frequency": 74253
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99144871, 40.74395411]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 65,
+             "Station": "Broadway & W 32 St",
+             "Frequency": 74046
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98808416, 40.74854862]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 66,
+             "Station": "Barclay St & Church St",
+             "Frequency": 73751
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01020234, 40.71291224]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 67,
+             "Station": "E 20 St & 2 Ave",
+             "Frequency": 73338
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98205027, 40.73587678]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 68,
+             "Station": "W Broadway & Spring St",
+             "Frequency": 72623
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00154702, 40.72490985]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 69,
+             "Station": "W 15 St & 7 Ave",
+             "Frequency": 70603
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99931783, 40.73935542]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 70,
+             "Station": "9 Ave & W 16 St",
+             "Frequency": 70415
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00443172, 40.74206539]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 71,
+             "Station": "W 20 St & 7 Ave",
+             "Frequency": 70330
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99726235, 40.74238787]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 72,
+             "Station": "Allen St & E Houston St",
+             "Frequency": 70253
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.989111, 40.722055]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 73,
+             "Station": "9 Ave & W 45 St",
+             "Frequency": 69693
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9912551, 40.76019252]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 74,
+             "Station": "E 31 St & 3 Ave",
+             "Frequency": 69085
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97966069, 40.74394314]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 75,
+             "Station": "Allen St & Rivington St",
+             "Frequency": 68572
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98997825, 40.72019576]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 76,
+             "Station": "E 23 St & 1 Ave",
+             "Frequency": 67955
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97809472, 40.736502]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 77,
+             "Station": "1 Ave & E 30 St",
+             "Frequency": 67822
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97536082, 40.74144387]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 78,
+             "Station": "Washington St & Gansevoort St",
+             "Frequency": 67797
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.008119, 40.739323]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 79,
+             "Station": "E 3 St & 1 Ave",
+             "Frequency": 67645
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98783413, 40.72467721]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 80,
+             "Station": "E 30 St & Park Ave S",
+             "Frequency": 67609
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98303529, 40.74444921]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 81,
+             "Station": "E 40 St & 5 Ave",
+             "Frequency": 67230
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9816324043, 40.752062306999996]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 82,
+             "Station": "E 58 St & 3 Ave",
+             "Frequency": 67144
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96724467, 40.76095756]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 83,
+             "Station": "Central Park S & 6 Ave",
+             "Frequency": 67137
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97634151, 40.76590936]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 84,
+             "Station": "E 13 St & Avenue A",
+             "Frequency": 66770
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98057249, 40.72955361]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 85,
+             "Station": "W 16 St & The High Line",
+             "Frequency": 66152
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00681753, 40.74334935]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 86,
+             "Station": "E 39 St & 3 Ave",
+             "Frequency": 65986
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97604882, 40.7489006]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 87,
+             "Station": "W 49 St & 8 Ave",
+             "Frequency": 65758
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98788205, 40.76227205]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 88,
+             "Station": "Broadway & W 29 St",
+             "Frequency": 65657
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98855723, 40.7462009]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 89,
+             "Station": "E 24 St & Park Ave S",
+             "Frequency": 65459
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98602213, 40.74096374]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 90,
+             "Station": "5 Ave & E 29 St",
+             "Frequency": 64818
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98683077, 40.7451677]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 91,
+             "Station": "W 43 St & 10 Ave",
+             "Frequency": 64308
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99461843, 40.76009437]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 92,
+             "Station": "W 45 St & 6 Ave",
+             "Frequency": 64113
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98291153, 40.7568001]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 93,
+             "Station": "Broadway & W 49 St",
+             "Frequency": 63858
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98442659, 40.76064679]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 94,
+             "Station": "Greenwich St & N Moore St",
+             "Frequency": 63764
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01020609, 40.72043411]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 95,
+             "Station": "E 4 St & 2 Ave",
+             "Frequency": 63548
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98978041, 40.726280700000004]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 96,
+             "Station": "Suffolk St & Stanton St",
+             "Frequency": 63421
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98517977, 40.72066442]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 97,
+             "Station": "W 42 St & 8 Ave",
+             "Frequency": 63246
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99098507, 40.75756989999999]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 98,
+             "Station": "E 11 St & 1 Ave",
+             "Frequency": 63212
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98426726, 40.72953837]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 99,
+             "Station": "Sullivan St & Washington Sq",
+             "Frequency": 62773
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99906065, 40.73047747]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 100,
+             "Station": "Forsyth St & Broome St",
+             "Frequency": 62588
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99266288, 40.71893904]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 101,
+             "Station": "E 14 St & Avenue B",
+             "Frequency": 62061
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97772429, 40.72938685]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 102,
+             "Station": "11 Ave & W 27 St",
+             "Frequency": 61803
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00522600000001, 40.751396]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 103,
+             "Station": "Allen St & Hester St",
+             "Frequency": 61495
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99190759, 40.71605866]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 104,
+             "Station": "E 47 St & Park Ave",
+             "Frequency": 60780
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97498696, 40.75510267]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 105,
+             "Station": "Canal St & Rutgers St",
+             "Frequency": 60489
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98990025, 40.71427487]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 106,
+             "Station": "E 25 St & 2 Ave",
+             "Frequency": 60252
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97973776, 40.73912601]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 107,
+             "Station": "W 37 St & 10 Ave",
+             "Frequency": 60015
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9979009, 40.75660359]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 108,
+             "Station": "W 51 St & 6 Ave",
+             "Frequency": 59923
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98042047, 40.7606597]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 109,
+             "Station": "E 15 St & 3 Ave",
+             "Frequency": 59741
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.986923, 40.734232]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 110,
+             "Station": "8 Ave & W 52 St",
+             "Frequency": 59213
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9851615, 40.76370739]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 111,
+             "Station": "W 13 St & 7 Ave",
+             "Frequency": 59088
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99994661, 40.73781509]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 112,
+             "Station": "E 10 St & 5 Ave",
+             "Frequency": 58903
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99510132, 40.73331967]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 113,
+             "Station": "10 Ave & W 28 St",
+             "Frequency": 58799
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00176802, 40.75066386]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 114,
+             "Station": "W 26 St & 10 Ave",
+             "Frequency": 58733
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.002950346, 40.749717753]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 115,
+             "Station": "West Thames St",
+             "Frequency": 58613
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01713445, 40.70834698]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 116,
+             "Station": "W 56 St & 6 Ave",
+             "Frequency": 57730
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97722479, 40.76340613]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 117,
+             "Station": "St Marks Pl & 1 Ave",
+             "Frequency": 57160
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98564945, 40.72779126]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 118,
+             "Station": "W 20 St & 8 Ave",
+             "Frequency": 56699
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00004031, 40.74345335]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 119,
+             "Station": "E 19 St & 3 Ave",
+             "Frequency": 56591
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98473765, 40.73624527]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 120,
+             "Station": "11 Ave & W 41 St",
+             "Frequency": 56129
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99884222, 40.76030096]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 121,
+             "Station": "9 Ave & W 18 St",
+             "Frequency": 56006
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00366443, 40.74317449]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 122,
+             "Station": "Elizabeth St & Hester St",
+             "Frequency": 55603
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.996375, 40.717290000000006]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 123,
+             "Station": "Liberty St & Broadway",
+             "Frequency": 55245
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01043382, 40.70905623]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 124,
+             "Station": "E 33 St & 5 Ave",
+             "Frequency": 55168
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98490707, 40.74765947]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 125,
+             "Station": "E 2 St & Avenue B",
+             "Frequency": 54743
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98368779, 40.72217444]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 126,
+             "Station": "Pershing Square North",
+             "Frequency": 54667
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97770600000001, 40.751872999999996]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 127,
+             "Station": "Washington Pl & Broadway",
+             "Frequency": 54569
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99404649, 40.72903917]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 128,
+             "Station": "Bank St & Hudson St",
+             "Frequency": 54489
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00618026, 40.73652889]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 129,
+             "Station": "E 2 St & 2 Ave",
+             "Frequency": 54187
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99069656, 40.72502876]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 130,
+             "Station": "E 6 St & Avenue B",
+             "Frequency": 54088
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98185424, 40.72453734]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 131,
+             "Station": "Stanton St & Chrystie St",
+             "Frequency": 53685
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99147535, 40.72229346]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 132,
+             "Station": "Greenwich Ave & Charles St",
+             "Frequency": 53347
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.000271, 40.735238]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 133,
+             "Station": "E 16 St & Irving Pl",
+             "Frequency": 53241
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98758561, 40.73524276]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 134,
+             "Station": "W 44 St & 5 Ave",
+             "Frequency": 53171
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98014437, 40.75500254]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 135,
+             "Station": "Howard St & Centre St",
+             "Frequency": 52632
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99973337, 40.71910537]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 136,
+             "Station": "E 20 St & Park Ave",
+             "Frequency": 52418
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98751968, 40.73827428]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 137,
+             "Station": "E 9 St & Avenue C",
+             "Frequency": 51906
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97768752, 40.72521311]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 138,
+             "Station": "E 20 St & FDR Drive",
+             "Frequency": 51540
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97573881, 40.73314259]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 139,
+             "Station": "Mercer St & Spring St",
+             "Frequency": 50961
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99949601, 40.72362738]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 140,
+             "Station": "W 29 St & 9 Ave",
+             "Frequency": 49790
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99839279, 40.750072700000004]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 141,
+             "Station": "W 52 St & 11 Ave",
+             "Frequency": 49581
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99392888, 40.76727216]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 142,
+             "Station": "Bayard St & Baxter St",
+             "Frequency": 48822
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99974372, 40.71602118]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 143,
+             "Station": "Grand St & Greene St",
+             "Frequency": 48781
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00234737, 40.72165481]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 144,
+             "Station": "MacDougal St & Washington Sq",
+             "Frequency": 48516
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99852205, 40.73226398]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 145,
+             "Station": "E 11 St & Broadway",
+             "Frequency": 48343
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99158043, 40.73261787]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 146,
+             "Station": "Shevchenko Pl & E 7 St",
+             "Frequency": 48276
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.990214, 40.728145]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 147,
+             "Station": "Cliff St & Fulton St",
+             "Frequency": 48031
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00530063, 40.70823502]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 148,
+             "Station": "W 37 St & 5 Ave",
+             "Frequency": 47871
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98338988, 40.75038009]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 149,
+             "Station": "1 Ave & E 18 St",
+             "Frequency": 47660
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98024289, 40.73416059]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 150,
+             "Station": "Broadway & Battery Pl",
+             "Frequency": 47526
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01361706, 40.70463334]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 151,
+             "Station": "FDR Drive & E 35 St",
+             "Frequency": 47429
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97121214, 40.744219]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 152,
+             "Station": "Broadway & W 55 St",
+             "Frequency": 47219
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98192338, 40.7652654]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 153,
+             "Station": "E 25 St & 1 Ave",
+             "Frequency": 46821
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97738662, 40.7381765]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 154,
+             "Station": "11 Ave & W 59 St",
+             "Frequency": 46764
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99054100000001, 40.771522]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 155,
+             "Station": "Watts St & Greenwich St",
+             "Frequency": 46449
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00965965, 40.72405549]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 156,
+             "Station": "Broadway & W 51 St",
+             "Frequency": 46432
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98336183, 40.76228826]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 157,
+             "Station": "Washington Pl & 6 Ave",
+             "Frequency": 45775
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00026394, 40.73224119]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 158,
+             "Station": "Lispenard St & Broadway",
+             "Frequency": 45758
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00247214, 40.71939226]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 159,
+             "Station": "Perry St & Bleecker St",
+             "Frequency": 45474
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00483091, 40.73535398]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 160,
+             "Station": "W 59 St & 10 Ave",
+             "Frequency": 45181
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.988038, 40.770513]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 161,
+             "Station": "W 14 St & The High Line",
+             "Frequency": 44967
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00803013, 40.74195138]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 162,
+             "Station": "W 47 St & 10 Ave",
+             "Frequency": 44816
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99301222, 40.76269882]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 163,
+             "Station": "6 Ave & Broome St",
+             "Frequency": 44535
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.004704, 40.724399]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 164,
+             "Station": "W 46 St & 11 Ave",
+             "Frequency": 44495
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99667444, 40.76341379]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 165,
+             "Station": "W 53 St & 10 Ave",
+             "Frequency": 43724
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99061728, 40.76669671]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 166,
+             "Station": "Broadway & W 36 St",
+             "Frequency": 43370
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98765428, 40.75097711]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 167,
+             "Station": "2 Ave & E 58 St",
+             "Frequency": 43224
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96478473, 40.76020258]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 168,
+             "Station": "Little West St & 1 Pl",
+             "Frequency": 42979
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01677685, 40.70569254]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 169,
+             "Station": "E 48 St & 3 Ave",
+             "Frequency": 42973
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.971878855, 40.7546011026]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 170,
+             "Station": "South St & Gouverneur Ln",
+             "Frequency": 42931
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00670227, 40.70355377]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 171,
+             "Station": "E 27 St & 1 Ave",
+             "Frequency": 42662
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97680600000001, 40.739445]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 172,
+             "Station": "Bank St & Washington St",
+             "Frequency": 42580
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00859207, 40.7361967]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 173,
+             "Station": "Broadway & W 39 St",
+             "Frequency": 42564
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98721619, 40.75299641]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 174,
+             "Station": "Henry St & Grand St",
+             "Frequency": 42400
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.981346, 40.714215]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 175,
+             "Station": "6 Ave & Canal St",
+             "Frequency": 42066
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00566443, 40.72243797]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 176,
+             "Station": "E 45 St & 3 Ave",
+             "Frequency": 41570
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97282625, 40.75255434]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 177,
+             "Station": "Rivington St & Chrystie St",
+             "Frequency": 41500
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99192540000001, 40.72110063]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 178,
+             "Station": "W 45 St & 8 Ave",
+             "Frequency": 41005
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98859651, 40.75929124]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 179,
+             "Station": "Franklin St & W Broadway",
+             "Frequency": 40899
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00666661, 40.71911552]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 180,
+             "Station": "S 5 Pl & S 4 St",
+             "Frequency": 40870
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.960876, 40.710451]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 181,
+             "Station": "Forsyth St & Canal St",
+             "Frequency": 40315
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99422366, 40.715815500000005]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 182,
+             "Station": "Fulton St & William St",
+             "Frequency": 39971
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00653609, 40.70955958]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 183,
+             "Station": "Broadway & W 37 St",
+             "Frequency": 39964
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98753523, 40.75172632]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 184,
+             "Station": "E 37 St & Lexington Ave",
+             "Frequency": 39590
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.978311, 40.748238]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 185,
+             "Station": "E 47 St & 2 Ave",
+             "Frequency": 39426
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97032517, 40.75323098]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 186,
+             "Station": "Pearl St & Hanover Square",
+             "Frequency": 39330
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00926027, 40.7047177]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 187,
+             "Station": "Centre St & Worth St",
+             "Frequency": 39265
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00234482, 40.71494807]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 188,
+             "Station": "Norfolk St & Broome St",
+             "Frequency": 39246
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98802084, 40.7172274]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 189,
+             "Station": "Hudson St & Reade St",
+             "Frequency": 39018
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.0091059, 40.71625008]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 190,
+             "Station": "1 Ave & E 44 St",
+             "Frequency": 38978
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96905301, 40.75001986]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 191,
+             "Station": "Maiden Ln & Pearl St",
+             "Frequency": 38860
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00731853, 40.70706456]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 192,
+             "Station": "Division St & Bowery",
+             "Frequency": 38775
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99704679999999, 40.71413089]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 193,
+             "Station": "Murray St & West St",
+             "Frequency": 37781
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.013012, 40.7149787]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 194,
+             "Station": "Park Pl & Church St",
+             "Frequency": 37590
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00937622, 40.71336124]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 195,
+             "Station": "Broadway & W 53 St",
+             "Frequency": 37531
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98268129, 40.76344058]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 196,
+             "Station": "E 51 St & Lexington Ave",
+             "Frequency": 37407
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97207836, 40.75714758]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 197,
+             "Station": "Reade St & Broadway",
+             "Frequency": 37313
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00562789, 40.71450451]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 198,
+             "Station": "Clinton St & Grand St",
+             "Frequency": 36956
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9870295, 40.71559509]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 199,
+             "Station": "W 52 St & 5 Ave",
+             "Frequency": 36953
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97648516, 40.75992262]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 200,
+             "Station": "Pike St & E Broadway",
+             "Frequency": 36633
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99293911, 40.71406667]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 201,
+             "Station": "E 56 St & Madison Ave",
+             "Frequency": 36559
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.972924, 40.761628]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 202,
+             "Station": "Spruce St & Nassau St",
+             "Frequency": 35464
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00552427, 40.71146364]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 203,
+             "Station": "Metropolitan Ave & Bedford Ave",
+             "Frequency": 35237
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96024116, 40.71534825]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 204,
+             "Station": "John St & William St",
+             "Frequency": 35130
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00722156, 40.70862144]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 205,
+             "Station": "W 56 St & 10 Ave",
+             "Frequency": 34835
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.988639, 40.768254]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 206,
+             "Station": "South St & Whitehall St",
+             "Frequency": 34815
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01234218, 40.70122128]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 207,
+             "Station": "York St & Jay St",
+             "Frequency": 34108
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98656928, 40.7014851]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 208,
+             "Station": "E 53 St & Lexington Ave",
+             "Frequency": 33996
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97069431, 40.75828065]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 209,
+             "Station": "William St & Pine St",
+             "Frequency": 33846
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00887308, 40.70717936]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 210,
+             "Station": "E 59 St & Sutton Pl",
+             "Frequency": 33602
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.95920622, 40.75849116]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 211,
+             "Station": "Front St & Maiden Ln",
+             "Frequency": 33531
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00612572, 40.70530954]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 212,
+             "Station": "Ashland Pl & Hanson Pl",
+             "Frequency": 32879
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97805813, 40.68528172]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 213,
+             "Station": "E 2 St & Avenue C",
+             "Frequency": 32855
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98085795, 40.720873600000004]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 214,
+             "Station": "E 41 St & Madison Ave",
+             "Frequency": 32807
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.979782, 40.752140999999995]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 215,
+             "Station": "Duane St & Greenwich St",
+             "Frequency": 32654
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.0104554, 40.71748752]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 216,
+             "Station": "Warren St & Church St",
+             "Frequency": 32273
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00910627, 40.71473993]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 217,
+             "Station": "E 56 St & 3 Ave",
+             "Frequency": 32258
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96759673, 40.75934501]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 218,
+             "Station": "E 5 St & Avenue C",
+             "Frequency": 32066
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97995466, 40.72299208]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 219,
+             "Station": "W 52 St & 9 Ave",
+             "Frequency": 31905
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98789473, 40.76461837]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 220,
+             "Station": "Wythe Ave & Metropolitan Ave",
+             "Frequency": 31527
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96319799999999, 40.716887]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 221,
+             "Station": "Joralemon St & Adams St",
+             "Frequency": 31396
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98963911, 40.69246277]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 222,
+             "Station": "E 33 St & 1 Ave",
+             "Frequency": 31379
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97434726, 40.74315566]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 223,
+             "Station": "St James Pl & Oliver St",
+             "Frequency": 30994
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99851193, 40.71307916]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 224,
+             "Station": "E 53 St & Madison Ave",
+             "Frequency": 30985
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97402311, 40.75971079999999]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 225,
+             "Station": "Front St & Washington St",
+             "Frequency": 30712
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98940236, 40.70255088]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 226,
+             "Station": "State St & Smith St",
+             "Frequency": 30685
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98912867, 40.68926942]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 227,
+             "Station": "W 34 St & 11 Ave",
+             "Frequency": 30522
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.0021163, 40.75594159]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 228,
+             "Station": "E 52 St & 2 Ave",
+             "Frequency": 30402
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.967416, 40.756014]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 229,
+             "Station": "Rivington St & Ridge St",
+             "Frequency": 30276
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98329859, 40.71850211]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 230,
+             "Station": "E 55 St & 2 Ave",
+             "Frequency": 28703
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96603308, 40.75797322]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 231,
+             "Station": "DeKalb Ave & Hudson Ave",
+             "Frequency": 28640
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.981013, 40.689888]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 232,
+             "Station": "Lawrence St & Willoughby St",
+             "Frequency": 27735
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98631746, 40.69236178]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 233,
+             "Station": "Leonard St & Church St",
+             "Frequency": 27214
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.005549, 40.717571]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 234,
+             "Station": "E 51 St & 1 Ave",
+             "Frequency": 27185
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96592976, 40.75455731]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 235,
+             "Station": "Bus Slip & State St",
+             "Frequency": 27064
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.013942, 40.701907]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 236,
+             "Station": "Catherine St & Monroe St",
+             "Frequency": 26986
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99682619, 40.71117444]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 237,
+             "Station": "W 54 St & 9 Ave",
+             "Frequency": 26687
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98690506, 40.76584941]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 238,
+             "Station": "Madison St & Montgomery St",
+             "Frequency": 26607
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.984844, 40.713126]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 239,
+             "Station": "Old Fulton St",
+             "Frequency": 26363
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99383605, 40.70277159]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 240,
+             "Station": "E 55 St & Lexington Ave",
+             "Frequency": 26360
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97031366, 40.75968085]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 241,
+             "Station": "Water - Whitehall Plaza",
+             "Frequency": 26129
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.0127234, 40.70255065]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 242,
+             "Station": "Old Slip & Front St",
+             "Frequency": 25870
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00838676, 40.703799200000006]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 243,
+             "Station": "Madison St & Clinton St",
+             "Frequency": 25471
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98776323, 40.71269042]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 244,
+             "Station": "Columbia St & Rivington St",
+             "Frequency": 25285
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98016555, 40.71739973]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 245,
+             "Station": "Harrison St & Hudson St",
+             "Frequency": 25173
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.0090009, 40.71870987]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 246,
+             "Station": "Clinton Ave & Myrtle Ave",
+             "Frequency": 25051
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.968896, 40.693261]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 247,
+             "Station": "E 6 St & Avenue D",
+             "Frequency": 24748
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97668709, 40.72228087]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 248,
+             "Station": "Cherry St",
+             "Frequency": 24432
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99400398, 40.71076228]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 249,
+             "Station": "Avenue D & E 3 St",
+             "Frequency": 24424
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97793172, 40.72082834]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 250,
+             "Station": "W 11 St & 6 Ave",
+             "Frequency": 24401
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99800419, 40.73532427]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 251,
+             "Station": "E 47 St & 1 Ave",
+             "Frequency": 24182
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96784384, 40.75206862]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 252,
+             "Station": "Bialystoker Pl & Delancey St",
+             "Frequency": 24163
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98261206, 40.71622644]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 253,
+             "Station": "Stanton St & Mangin St",
+             "Frequency": 23835
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97628939, 40.71782143]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 254,
+             "Station": "Hicks St & Montague St",
+             "Frequency": 23820
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99595065, 40.69512845]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 255,
+             "Station": "Dean St & 4 Ave",
+             "Frequency": 23557
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97895137, 40.68312489]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 256,
+             "Station": "Jay St & Tech Pl",
+             "Frequency": 23281
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.987167, 40.695065]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 257,
+             "Station": "E 43 St & 2 Ave",
+             "Frequency": 23000
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97121414, 40.75022392]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 258,
+             "Station": "Clark St & Henry St",
+             "Frequency": 22633
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99344559, 40.69760127]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 259,
+             "Station": "Henry St & Atlantic Ave",
+             "Frequency": 21928
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99612349, 40.69089272]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 260,
+             "Station": "Atlantic Ave & Furman St",
+             "Frequency": 20994
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99997859999999, 40.69165183]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 261,
+             "Station": "Pike St & Monroe St",
+             "Frequency": 20907
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99193043, 40.71173107]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 262,
+             "Station": "W 49 St & 5 Ave",
+             "Frequency": 20417
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97787642, 40.75795248]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 263,
+             "Station": "Atlantic Ave & Fort Greene Pl",
+             "Frequency": 20411
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97632328, 40.68382604]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 264,
+             "Station": "Broad St & Bridge St",
+             "Frequency": 20262
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01167797, 40.70365182]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 265,
+             "Station": "Market St & Cherry St",
+             "Frequency": 20210
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99400398, 40.71076228]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 266,
+             "Station": "Adelphi St & Myrtle Ave",
+             "Frequency": 20174
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97178913, 40.69308257]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 267,
+             "Station": "St James Pl & Pearl St",
+             "Frequency": 19568
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00016545, 40.71117416]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 268,
+             "Station": "Pershing Square South",
+             "Frequency": 19507
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97791, 40.751581]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 269,
+             "Station": "Pearl St & Anchorage Pl",
+             "Frequency": 19407
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98765762, 40.70281858]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 270,
+             "Station": "Bond St & Schermerhorn St",
+             "Frequency": 18975
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98410637, 40.68807003]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 271,
+             "Station": "Peck Slip & Front Street",
+             "Frequency": 18846
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00166999999999, 40.707873]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 272,
+             "Station": "Johnson St & Gold St",
+             "Frequency": 17674
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98362464, 40.69474881]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 273,
+             "Station": "Avenue D & E 8 St",
+             "Frequency": 17487
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97574813, 40.72368361]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 274,
+             "Station": "Cadman Plaza West & Montague St",
+             "Frequency": 17112
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.990539, 40.69383]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 275,
+             "Station": "Cadman Plaza E & Tillary St",
+             "Frequency": 16439
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99014892, 40.69597683]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 276,
+             "Station": "Clinton St & Joralemon St",
+             "Frequency": 16380
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99337909, 40.69239502]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 277,
+             "Station": "Lafayette Ave & Fort Greene Pl",
+             "Frequency": 16206
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.976682, 40.68691865]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 278,
+             "Station": "Cumberland St & Lafayette Ave",
+             "Frequency": 16164
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97265183, 40.68753406]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 279,
+             "Station": "Willoughby St & Fleet St",
+             "Frequency": 16044
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9813018, 40.69196566]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 280,
+             "Station": "Fulton St & Waverly Ave",
+             "Frequency": 15806
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9659641, 40.68317813]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 281,
+             "Station": "S 4 St & Wythe Ave",
+             "Frequency": 15627
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96590294, 40.71285887]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 282,
+             "Station": "Laight St & Hudson St",
+             "Frequency": 15511
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00771779, 40.72185379]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 283,
+             "Station": "Washington Ave & Park Ave",
+             "Frequency": 15015
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96751037, 40.69610226]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 284,
+             "Station": "Fulton St & Rockwell Pl",
+             "Frequency": 14920
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.978474, 40.687979]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 285,
+             "Station": "S 3 St & Bedford Ave",
+             "Frequency": 14776
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96264403, 40.71260486]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 286,
+             "Station": "DeKalb Ave & Vanderbilt Ave",
+             "Frequency": 14561
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96885458, 40.68940747]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 287,
+             "Station": "Willoughby Ave & Hall St",
+             "Frequency": 14395
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96536851, 40.69196035]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 288,
+             "Station": "Broadway & Berry St",
+             "Frequency": 14103
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96525063, 40.71044554]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 289,
+             "Station": "Grand St & Havemeyer St",
+             "Frequency": 13886
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.95698119, 40.71286844]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 290,
+             "Station": "DeKalb Ave & S Portland Ave",
+             "Frequency": 13579
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97493121, 40.68981035]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 291,
+             "Station": "Pitt St & Stanton St",
+             "Frequency": 13481
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98178024, 40.71926081]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 292,
+             "Station": "Duffield St & Willoughby St",
+             "Frequency": 13436
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9842844, 40.69221589]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 293,
+             "Station": "Shevchenko Pl & E 6 St",
+             "Frequency": 12702
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.990214, 40.728145]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 294,
+             "Station": "Clinton St & Tillary St",
+             "Frequency": 12465
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.991218, 40.696191999999996]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 295,
+             "Station": "Pershing Square N",
+             "Frequency": 12180
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97770164, 40.75188406]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 296,
+             "Station": "Cadman Plaza E & Red Cross Pl",
+             "Frequency": 11794
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98971773, 40.69991755]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 297,
+             "Station": "Flushing Ave & Carlton Ave",
+             "Frequency": 11422
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97350332, 40.69788349]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 298,
+             "Station": "Front St & Gold St",
+             "Frequency": 11360
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.982578, 40.70224]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 299,
+             "Station": "Washington Park",
+             "Frequency": 11226
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97372989, 40.69178232]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 300,
+             "Station": "Fulton St & Grand Ave",
+             "Frequency": 11152
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9614583, 40.68223166]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 301,
+             "Station": "S Portland Ave & Hanson Pl",
+             "Frequency": 11135
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97431458, 40.68539567]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 302,
+             "Station": "Henry St & Poplar St",
+             "Frequency": 11132
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.991454, 40.700469]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 303,
+             "Station": "Columbia Heights & Cranberry St",
+             "Frequency": 10674
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99548059, 40.70037867]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 304,
+             "Station": "Emerson Pl & Myrtle Ave",
+             "Frequency": 10621
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96223558, 40.69363137]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 305,
+             "Station": "Lefferts Pl & Franklin Ave",
+             "Frequency": 10490
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9557689392, 40.680342423]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 306,
+             "Station": "Clermont Ave & Lafayette Ave",
+             "Frequency": 10390
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96968902, 40.68764484]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 307,
+             "Station": "Willoughby Ave & Walworth St",
+             "Frequency": 10072
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.95381995, 40.69331716]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 308,
+             "Station": "Avenue D & E 12 St",
+             "Frequency": 10015
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97422494, 40.72580614]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 309,
+             "Station": "Kent Ave & S 11 St",
+             "Frequency": 9922
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96834101, 40.70827295]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 310,
+             "Station": "Monroe St & Bedford Ave",
+             "Frequency": 9474
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.95380904, 40.6851443]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 311,
+             "Station": "W 43 St & 6 Ave",
+             "Frequency": 9242
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98316936, 40.75527307]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 312,
+             "Station": "Clinton Ave & Flushing Ave",
+             "Frequency": 8881
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96986848, 40.69794]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 313,
+             "Station": "Concord St & Bridge St",
+             "Frequency": 8793
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98476437, 40.69766564]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 314,
+             "Station": "Lafayette Ave & St James Pl",
+             "Frequency": 8750
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9647628, 40.68851534]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 315,
+             "Station": "Lafayette Ave & Classon Ave",
+             "Frequency": 8575
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96023854, 40.68900443]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 316,
+             "Station": "Fulton St & Clermont Ave",
+             "Frequency": 8370
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96922273, 40.68415748]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 317,
+             "Station": "Washington Ave & Greene Ave",
+             "Frequency": 8180
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96563307, 40.68650065]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 318,
+             "Station": "Clermont Ave & Park Ave",
+             "Frequency": 8130
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97129668, 40.69573398]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 319,
+             "Station": "Gallatin Pl & Livingston St",
+             "Frequency": 8048
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98707105, 40.69028437]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 320,
+             "Station": "Nassau St & Navy St",
+             "Frequency": 7907
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98068914, 40.69839895]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 321,
+             "Station": "Lexington Ave & Classon Ave",
+             "Frequency": 7876
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.95928168, 40.68676793]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 322,
+             "Station": "3 Ave & Schermerhorn St",
+             "Frequency": 7820
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9796772, 40.68683208]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 323,
+             "Station": "DeKalb Ave & Skillman St",
+             "Frequency": 7187
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.95643107, 40.6906495]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 324,
+             "Station": "Hancock St & Bedford Ave",
+             "Frequency": 7165
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.95399026, 40.68216564]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 325,
+             "Station": "State St",
+             "Frequency": 6196
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.01427023, 40.70251526]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 326,
+             "Station": "Myrtle Ave & St Edwards St",
+             "Frequency": 6126
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97703874, 40.69327018]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 327,
+             "Station": "Franklin Ave & Myrtle Ave",
+             "Frequency": 5888
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.958089, 40.694528000000005]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 328,
+             "Station": "Carlton Ave & Park Ave",
+             "Frequency": 5629
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97355569, 40.69580705]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 329,
+             "Station": "Pershing Square S",
+             "Frequency": 5242
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97798848, 40.75149263]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 330,
+             "Station": "E 33 St & 2 Ave",
+             "Frequency": 5140
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.976056, 40.744023]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 331,
+             "Station": "Macon St & Nostrand Ave",
+             "Frequency": 4873
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.9500479759, 40.6809833854]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 332,
+             "Station": "Bedford Ave & S 9th St",
+             "Frequency": 4676
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.96408963, 40.70853074]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 333,
+             "Station": "Monroe St & Classon Ave",
+             "Frequency": 4311
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.95881081, 40.684568299999995]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 334,
+             "Station": "Hanover Pl & Livingston St",
+             "Frequency": 3885
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98263429, 40.68864636]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 335,
+             "Station": "E 48 St & Madison Ave",
+             "Frequency": 3619
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97668399999999, 40.75666]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 336,
+             "Station": "Park Ave & St Edwards St",
+             "Frequency": 3486
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97803415, 40.69608941]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 337,
+             "Station": "Sands St & Gold St",
+             "Frequency": 2841
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.98271933, 40.69986937]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 338,
+             "Station": "Sands St & Navy St",
+             "Frequency": 2046
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.979927, 40.699773]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 339,
+             "Station": "W 13 St & 5 Ave",
+             "Frequency": 1975
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99453948, 40.73543934]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 340,
+             "Station": "Railroad Ave & Kay Ave",
+             "Frequency": 1721
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97100056, 40.70531194]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 341,
+             "Station": "Church St & Leonard St",
+             "Frequency": 1392
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-74.00583475, 40.71743998]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 342,
+             "Station": "Montague St & Clinton St",
+             "Frequency": 918
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.99215922, 40.69424674]
+               }
+        },
+         { "type": "Feature",
+       "properties": {
+             "id": 343,
+             "Station": "7 Ave & Farragut St",
+             "Frequency": 911
+              },
+        "geometry": {
+             "type": "Point",
+             "coordinates": [-73.97332996, 40.69892054]
+               }
+        }
+         ]
+}
+    

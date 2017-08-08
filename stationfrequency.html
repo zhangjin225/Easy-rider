@@ -1,0 +1,187 @@
+<html>
+<head>
+  <meta charset='utf-8' />
+  <title>Citi bike station frequency</title>
+  <link rel="shortcut icon" href="./images/bike.ico" />
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <script src='https://api.mapbox.com/mapbox-gl-js/v0.38.0/mapbox-gl.js'></script>
+  <script src="https://unpkg.com/supercluster@2.3.0/dist/supercluster.min.js"></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v0.38.0/mapbox-gl.css' rel='stylesheet' />
+  <style>
+    h1 {
+      color: #333333;
+      font-size: 48px;
+      text-shadow: 3px 3px 3px #666666;
+    }
+  </style>
+ 
+</head>
+<body>
+
+<div id='map'></div>
+<div id='console'>
+  <h1>Citi bike station</h1>
+   
+  <div class='session'>
+  <h2>Frequency</h2>
+  <div class='row colors'>
+  </div>
+  <div class='row labels'>
+    <div class='label'>1</div>
+    <div class='label'>1K</div>
+    <div class='label'>2K</div>
+    <div class='label'>3K</div>
+    <div class='label'>4K</div>
+    <div class='label'>5K+</div>
+  </div>
+</div>  
+
+<div class='session' id='sliderbar'>
+  <h2>Hour: <label id='active-hour'>12PM</label></h2>
+  <input id='slider' class='row' type='range' min='0' max='23' step='1' value='12' />
+</div>
+
+
+
+
+</div>
+
+
+
+
+  <style>
+  body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+h1 {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+h2 {
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #2dc4b2;
+}
+
+#console {
+  position: absolute;
+  width: 240px;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: white;
+}
+
+.session {
+  margin-bottom: 20px;
+}
+
+.row {
+  height: 12px;
+  width: 100%;
+}
+
+.colors {
+  background: linear-gradient(to right, #2dc4b2, #3bb3c3, #669ec4, #8b88b6, #a2719b, #aa5e79);
+  margin-bottom: 5px;
+}
+
+.label {
+  width: 15%;
+  display: inline-block;
+  text-align: center;
+}
+
+  </style>
+
+  <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiemhhbmdqaW4yMjUiLCJhIjoiY2o1dTNybG1jMDBjZDMycG1nYW0xdWx3dyJ9.yVbrprkI2I7SLgO0CjkH0w';
+
+var map = new mapboxgl.Map({
+  container: 'map', // container element id
+  style: 'mapbox://styles/mapbox/light-v9',
+  center: [-74.0059, 40.7128], // initial map center in [lon, lat]
+  zoom: 12
+  
+});
+
+
+   map.on('load', function() {
+  map.addLayer({
+    id: 'collisions',
+    type: 'circle',
+    source: {
+      type: 'geojson',
+      data: './data/HourStationFrequencyLatitudeLongitude-01-07.geojson' // replace this with the url of your own geojson
+    },
+    paint: {
+      'circle-radius': {
+        property: 'Frequency',
+        stops: [
+          [0, 2], // zoom is 0 -> circle radius will be 3px
+          [4, 12] // zoom is 5 -> circle radius will be 15px
+        ]
+      },
+      'circle-color': {
+        property: 'Frequency',
+        stops: [
+          [1, '#2DC4B2'], // "Casualty" is 0   -> circle color will be #2DC4B2
+          [1000, '#3BB3C3'], // "Casualty" is 1   -> circle color will be #3BB3C3
+          [2000, '#669EC4'], // "Casualty" is 2   -> circle color will be #669EC4
+          [3000, '#8B88B6'], // "Casualty" is 3   -> circle color will be #8B88B6
+          [4000, '#A2719B'], // "Casualty" is 4   -> circle color will be #A2719B
+          [5000, '#AA5E79']
+        ]
+      },
+      'circle-opacity': 0.8
+    },
+		
+	'filter': ['==', 'Hour', 12]	
+		
+  }, 'admin-2-boundaries-dispute'); // place the layer beneath this layer in the basemap
+  
+  
+  document.getElementById('slider').addEventListener('input', function(e) {
+  // get the current hour as an integer
+  var hour = parseInt(e.target.value);
+  // map.setFilter(layer-name, filter)
+  map.setFilter('collisions', ['==', 'Hour', hour]);
+
+  // converting 0-23 hour to AMPM format
+  var ampm = hour >= 12 ? 'PM' : 'AM';
+  var hour12 = hour % 12 ? hour % 12 : 12;
+  // update text in the UI
+  document.getElementById('active-hour').innerText = hour12 + ampm;
+});
+
+
+  
+
+});
+  
+  
+  
+  </script>
+  
+ 
+</body>
+</html>
+
+
+
+

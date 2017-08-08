@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Citi bike station distribution</title>
+	<link rel="shortcut icon" type="image/x-icon" href="./images/bike.ico" media="screen" />
+	    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.css' rel='stylesheet' />
+
+
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+		#map2 {position:absolute; top:0; bottom:0; width:100%; }
+		 h1 {
+      color: #333333;
+      font-size: 20px;
+      text-shadow: 3px 3px 3px #666666;
+    }
+	 
+	.map-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.8);
+  margin-left: 20px;
+  font-family: Arial, sans-serif;
+  overflow: auto;
+  border-radius: 3px;
+}
+
+	
+    </style>
+	
+	<script>
+    function change() {
+      document.getElementsByTagName('h1')[0].style.color = '#ff0000';
+    }
+  </script>
+
+</head>
+
+
+<body>
+
+<style>
+
+    #menu {
+        background: #fff;
+        position: absolute;
+        z-index: 1;
+        top: 10px;
+        right: 10px;
+        border-radius: 3px;
+        width: 120px;
+        border: 1px solid rgba(0,0,0,0.4);
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    #menu a {
+        font-size: 13px;
+        color: #404040;
+        display: block;
+        margin: 0;
+        padding: 0;
+        padding: 10px;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(0,0,0,0.25);
+        text-align: center;
+    }
+
+    #menu a:last-child {
+        border: none;
+    }
+
+    #menu a:hover {
+        background-color: #f8f8f8;
+        color: #404040;
+    }
+
+    #menu a.active {
+        background-color: #3887be;
+        color: #ffffff;
+    }
+
+    #menu a.active:hover {
+        background: #3074a4;
+    }
+
+	.label {
+  width: 15%;
+  display: inline;
+  text-align: left;
+}
+
+
+.row {
+  height: 13px;
+  width: 100%;
+}
+
+.colors {
+  background: linear-gradient(to right, #2dc4b2, #3bb3c3, #669ec4, #8b88b6, #a2719b, #aa5e79, #FF0000);
+  margin-bottom: 9px;
+}
+</style>
+
+
+
+<nav id="menu"></nav>
+<div id="map"></div>
+
+<div class='map-overlay' id='features'>
+  <h1>Frequency</h1>
+  <div class='row colors'>
+  </div>
+  <div class='labels'>
+    <div class='label'>1</div>
+    <div class='label'>5K</div>
+    <div class='label'>10K</div>
+    <div class='label'>15K</div>
+    <div class='label'>20K</div>
+    <div class='label'>25K</div>
+    <div class='label'>30K+</div>
+  </div>
+</div> 
+
+
+<div class='map-overlay' id='legend'></div>
+
+
+
+<script>
+
+mapboxgl.accessToken = 'pk.eyJ1IjoiemhhbmdqaW4yMjUiLCJhIjoiY2o1dTNybG1jMDBjZDMycG1nYW0xdWx3dyJ9.yVbrprkI2I7SLgO0CjkH0w';
+var map = new mapboxgl.Map({
+    container: 'map',
+	<!--style: 'mapbox://styles/mapbox/dark-v9',-->
+    style: 'mapbox://styles/mapbox/light-v9',
+    zoom: 12,
+    center: [-74.0059, 40.7128]
+});
+
+
+
+
+
+map.on('load', function () {
+
+    map.addSource('2017-01-07-citibike', {
+    type: 'geojson',
+    data: './data/2017-01-07-citibike-data.geojson'
+    });
+    map.addLayer({
+        'id': '2017-citibike (677 stations)',
+        'type': 'circle',
+        'source': '2017-01-07-citibike',
+        'layout': {
+            'visibility': 'visible'
+        },
+            'paint': {
+      'circle-radius': {
+        property: 'Frequency',
+        stops: [
+          [0, 1], // zoom is 0 -> circle radius will be 3px
+          [2, 6] // zoom is 5 -> circle radius will be 15px
+        ]
+      },
+      'circle-color': {
+        property: 'Frequency',
+        stops: [
+          [1, '#2DC4B2'], // "Frequency" is 0   -> circle color will be #2DC4B2
+          [50000, '#3BB3C3'], // "Frequency" is 1   -> circle color will be #3BB3C3
+          [100000, '#669EC4'], // "Frequency" is 2   -> circle color will be #669EC4
+          [150000, '#8B88B6'], // "Frequency" is 3   -> circle color will be #8B88B6
+          [200000, '#A2719B'], // "Frequency" is 4   -> circle color will be #A2719B
+          [250000, '#AA5E79'], // "Frequency" is 4   -> circle color will be #AA5E79
+		  [300000, '#FF0000']  // "Frequency" is 4   -> circle color will be #FF0000
+        ]
+      },
+      'circle-opacity': 0.8
+    },
+    });
+
+
+
+    map.addSource('2016-citibike', {
+    type: 'geojson',
+    data: './data/2016-citibike-data.geojson'
+    });
+    map.addLayer({
+        'id': '2016-citibike (677 stations)',
+        'type': 'circle',
+        'source': '2016-citibike',
+        'layout': {
+            'visibility': 'visible'
+        },
+            'paint': {
+      'circle-radius': {
+        property: 'Frequency',
+        stops: [
+          [0, 1], // zoom is 0 -> circle radius will be 3px
+          [2, 6] // zoom is 5 -> circle radius will be 15px
+        ]
+      },
+      'circle-color': {
+        property: 'Frequency',
+        stops: [
+          [1, '#2DC4B2'], // "Frequency" is 0   -> circle color will be #2DC4B2
+          [50000, '#3BB3C3'], // "Frequency" is 1   -> circle color will be #3BB3C3
+          [100000, '#669EC4'], // "Frequency" is 2   -> circle color will be #669EC4
+          [150000, '#8B88B6'], // "Frequency" is 3   -> circle color will be #8B88B6
+          [200000, '#A2719B'], // "Frequency" is 4   -> circle color will be #A2719B
+          [250000, '#AA5E79'],
+		  [300000, '#FF0000']
+        ]
+      },
+      'circle-opacity': 0.8
+    },
+    });
+    
+	map.addSource('2015-citibike', {
+    type: 'geojson',
+    data: './data/2015-citibike-data.geojson'
+    });
+    map.addLayer({
+        'id': '2015-citibike (507 stations)',
+        'type': 'circle',
+        'source': '2015-citibike',
+        'layout': {
+            'visibility': 'visible'
+        },
+            'paint': {
+      'circle-radius': {
+        property: 'Frequency',
+        stops: [
+          [0, 1], // zoom is 0 -> circle radius will be 3px
+          [2, 6] // zoom is 5 -> circle radius will be 15px
+        ]
+      },
+      'circle-color': {
+        property: 'Frequency',
+        stops: [
+          [1, '#2DC4B2'], // "Frequency" is 0   -> circle color will be #2DC4B2
+          [50000, '#3BB3C3'], // "Frequency" is 1   -> circle color will be #3BB3C3
+          [100000, '#669EC4'], // "Frequency" is 2   -> circle color will be #669EC4
+          [150000, '#8B88B6'], // "Frequency" is 3   -> circle color will be #8B88B6
+          [200000, '#A2719B'], // "Frequency" is 4   -> circle color will be #A2719B
+          [250000, '#AA5E79'],
+		  [300000, '#FF0000']
+        ]
+      },
+      'circle-opacity': 0.8
+    },
+    });
+	
+	map.addSource('2014-citibike', {
+    type: 'geojson',
+    data: './data/2014-citibike-data.geojson'
+    });
+    map.addLayer({
+        'id': '2014-citibike (344 stations)',
+        'type': 'circle',
+        'source': '2014-citibike',
+        'layout': {
+            'visibility': 'visible'
+        },
+            'paint': {
+      'circle-radius': {
+        property: 'Frequency',
+        stops: [
+          [0, 1], // zoom is 0 -> circle radius will be 3px
+          [2, 6] // zoom is 5 -> circle radius will be 15px
+        ]
+      },
+      'circle-color': {
+        property: 'Frequency',
+        stops: [
+          [1, '#2DC4B2'], // "Frequency" is 0   -> circle color will be #2DC4B2
+          [50000, '#3BB3C3'], // "Frequency" is 1   -> circle color will be #3BB3C3
+          [100000, '#669EC4'], // "Frequency" is 2   -> circle color will be #669EC4
+          [150000, '#8B88B6'], // "Frequency" is 3   -> circle color will be #8B88B6
+          [200000, '#A2719B'], // "Frequency" is 4   -> circle color will be #A2719B
+          [250000, '#AA5E79'],
+		  [300000, '#FF0000']
+        ]
+      },
+      'circle-opacity': 0.8
+    },
+    });	
+
+	
+	
+  
+});
+
+
+var toggleableLayerIds = [ '2014-citibike (344 stations)', '2015-citibike (507 stations)', '2016-citibike (677 stations)', '2017-citibike (677 stations)' ];
+
+
+for (var i = 0; i < toggleableLayerIds.length; i++) {
+    var id = toggleableLayerIds[i];
+
+    var link = document.createElement('a');
+    link.href = '#';
+    link.className = 'active';
+    link.textContent = id;
+
+    link.onclick = function (e) {
+        var clickedLayer = this.textContent;
+        e.preventDefault();
+        e.stopPropagation();
+
+        var visibility = map.getLayoutProperty(clickedLayer, 'visibility');
+
+        if (visibility === 'visible') {
+            map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+            this.className = '';
+        } else {
+            this.className = 'active';
+            map.setLayoutProperty(clickedLayer, 'visibility', 'visible');
+        }
+    };
+
+    var layers = document.getElementById('menu');
+    layers.appendChild(link);
+	
+	
+	
+}
+
+
+
+</script>
+
+
+
+
+
+</body>
+</html>
+
